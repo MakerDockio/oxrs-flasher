@@ -20,11 +20,13 @@ jobs:
       with:
         node-version: '16'
 
-    - name: Create Manifests Directory
-      run: mkdir -p docs/manifests
+    - name: Create Manifests and Firmware Directories
+      run: |
+        mkdir -p docs/manifests
+        mkdir -p docs/firmware
 
     - name: Install Dependencies
-      run: npm install axios dotenv express request cors
+      run: npm install axios dotenv express cors
 
     - name: Run Update Script
       env:
@@ -38,7 +40,7 @@ jobs:
       run: git pull origin main
 
     - name: Stage All Changes Including lastUpdated.txt
-      run: git add docs/manifests/lastUpdated.txt docs/manifests/*.json docs/index.html docs/index.js docs/main.css
+      run: git add docs/manifests/lastUpdated.txt docs/manifests/*.json docs/firmware/*.bin docs/index.html docs/index.js docs/main.css
 
     - name: Commit and Push Changes
       run: |
