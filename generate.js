@@ -1,5 +1,4 @@
 require("dotenv").config();
-
 const fs = require("fs");
 const axios = require("axios");
 const path = require("path");
@@ -13,6 +12,10 @@ const githubAccounts = [
 
 const githubApiBaseUrl = "https://api.github.com";
 const GITHUB_API_TOKEN = process.env.GITHUB_API_TOKEN;
+
+if (!GITHUB_API_TOKEN) {
+  throw new Error("Missing GitHub API token in environment variables");
+}
 
 const getRepos = async (account) => {
   const { name, type } = account;
@@ -79,7 +82,7 @@ const generateManifest = async () => {
                   chipFamily: chipFamily,
                   parts: [
                     {
-                      path: `http://localhost:3000/proxy?url=https://github.com/${repo.owner.login}/${repo.name}/releases/download/${release.tag_name}/${asset.name}`,
+                      path: `https://github.com/${repo.owner.login}/${repo.name}/releases/download/${release.tag_name}/${asset.name}`,
                       offset: 0,
                     },
                   ],
