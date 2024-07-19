@@ -37,15 +37,16 @@ jobs:
     - name: Pull Latest Changes
       run: git pull origin main
 
-    - name: Stage All Changes
-      run: git add -A
+    - name: Stage All Changes Including lastUpdated.txt
+      run: |
+        git add docs/manifests/lastUpdated.txt docs/manifests/*.json docs/index.html docs/index.js docs/main.css
 
     - name: Commit and Push Changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-        git commit -m 'Update manifest files for latest releases and update GitHub Pages'
-        git push
+        git commit -m 'Update manifest files for latest releases and update GitHub Pages' || echo "No changes to commit"
+        git push || echo "Nothing to push"
       env:
         GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
@@ -53,7 +54,7 @@ jobs:
       run: |
         touch docs/.nojekyll
         git add docs/.nojekyll
-        git commit -m 'Trigger GitHub Pages rebuild'
-        git push
+        git commit -m 'Trigger GitHub Pages rebuild' || echo "No changes to commit"
+        git push || echo "Nothing to push"
       env:
         GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
