@@ -19,7 +19,7 @@ Welcome to the OXRS Device Flasher tool. This tool is designed to simplify the p
 
 - A compatible OXRS device
 - A USB connection between your device and your computer
-- A modern web browser (Chrome, Firefox, Edge, etc.)
+- A modern web browser (Chrome, Edge)
 
 ## Support
 
