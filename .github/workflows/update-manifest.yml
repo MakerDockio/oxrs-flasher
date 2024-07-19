@@ -1,0 +1,48 @@
+name: Update Manifests and Deploy GitHub Pages
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Runs every 15 minutes
+  push:
+    branches:
+      - main
+
+jobs:
+  update-manifests:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+
+    - name: Install Dependencies
+      run: npm install axios dotenv express request cors
+
+    - name: Run Update Script
+      env:
+        GITHUB_API_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
+      run: node scripts/generate.js
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        git add docs/manifests/*.json
+        git commit -m 'Update manifest files for latest releases'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Trigger GitHub Pages Deployment
+      run: |
+        touch docs/.nojekyll
+        git add docs/.nojekyll
+        git commit -m 'Trigger GitHub Pages rebuild'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
