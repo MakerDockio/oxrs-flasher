@@ -31,6 +31,9 @@ jobs:
         GITHUB_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
       run: node generate.js
 
+    - name: Configure Git to Use Fast-forward Only
+      run: git config pull.ff only
+
     - name: Pull Latest Changes
       run: git pull origin main
 
