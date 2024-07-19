@@ -7,7 +7,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://github.com/OXRS-IO/OXRS-IO-StateMonitor-ESP-FW/releases/download/3.17.1/OXRS-SHA-StateMonitor-FW_rack32-wifi_ESP32_v3.17.1_FLASH.bin",
+          "path": "/oxrs-flasher/firmware/OXRS-SHA-StateMonitor-FW_rack32-wifi_ESP32_v3.17.1_FLASH.bin",
           "offset": 0
         }
       ]
