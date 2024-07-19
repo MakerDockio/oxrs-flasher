@@ -1,0 +1,16 @@
+{
+  "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.6_FLASH.bin",
+  "version": "2.4.6",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://github.com/OXRS-IO/OXRS-IO-TouchPanel-ESP32-FW/releases/download/2.4.6/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.6_FLASH.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

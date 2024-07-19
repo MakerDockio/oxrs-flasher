@@ -1,0 +1,16 @@
+{
+  "name": "OXRS-IO-DigitalIO-ESP-FW_lilygo-eth_ESP32_v2.0.0_FLASH.bin",
+  "version": "2.0.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://github.com/OXRS-IO/OXRS-IO-DigitalIO-ESP-FW/releases/download/2.0.0/OXRS-IO-DigitalIO-ESP-FW_lilygo-eth_ESP32_v2.0.0_FLASH.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

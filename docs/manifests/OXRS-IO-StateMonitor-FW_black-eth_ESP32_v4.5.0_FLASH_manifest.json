@@ -1,0 +1,16 @@
+{
+  "name": "OXRS-IO-StateMonitor-FW_black-eth_ESP32_v4.5.0_FLASH.bin",
+  "version": "4.5.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://github.com/OXRS-IO/OXRS-IO-StateMonitor-ESP-FW/releases/download/4.5.0/OXRS-IO-StateMonitor-FW_black-eth_ESP32_v4.5.0_FLASH.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

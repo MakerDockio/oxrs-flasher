@@ -1,0 +1,16 @@
+{
+  "name": "OXRS-SHA-StateIO-FW_room8266-wifi_ESP8266_v3.12.4_FLASH.bin",
+  "version": "3.12.4",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://github.com/OXRS-IO/OXRS-IO-StateIO-ESP-FW/releases/download/3.12.4/OXRS-SHA-StateIO-FW_room8266-wifi_ESP8266_v3.12.4_FLASH.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

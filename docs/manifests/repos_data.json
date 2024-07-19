@@ -1,0 +1,1056 @@
+[
+  {
+    "name": "OXRS-IO/OXRS-IO-StateMonitor-ESP-FW",
+    "releases": [
+      {
+        "tag": "4.5.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateMonitor-FW_black-eth_ESP32_v4.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_black-eth_ESP32_v4.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.5.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "4.4.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.4.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.4.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.4.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.4.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "4.3.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.3.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.3.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.3.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.3.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.3.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.3.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.3.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.3.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "4.2.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.2.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "4.1.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.1.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.1.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.1.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.1.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "4.0.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.0.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "3.17.1",
+        "manifests": [
+          {
+            "name": "OXRS-SHA-StateMonitor-FW_rack32-eth_ESP32_v3.17.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-SHA-StateMonitor-FW_rack32-eth_ESP32_v3.17.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-SHA-StateMonitor-FW_rack32-wifi_ESP32_v3.17.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-SHA-StateMonitor-FW_rack32-wifi_ESP32_v3.17.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-SHA-StateMonitor-FW_room8266-eth_ESP8266_v3.17.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-SHA-StateMonitor-FW_room8266-eth_ESP8266_v3.17.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-SHA-StateMonitor-FW_room8266-wifi_ESP8266_v3.17.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-SHA-StateMonitor-FW_room8266-wifi_ESP8266_v3.17.1_FLASH_manifest.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OXRS-IO/OXRS-IO-StateController-ESP-FW",
+    "releases": [
+      {
+        "tag": "4.2.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateController-FW_black-eth_ESP32_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateController-FW_black-eth_ESP32_v4.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.2.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "4.1.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.1.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.1.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "4.0.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.0.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "3.13.1",
+        "manifests": [
+          {
+            "name": "OXRS-SHA-StateController-FW_rack32-eth_ESP32_v3.13.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-SHA-StateController-FW_rack32-eth_ESP32_v3.13.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-SHA-StateController-FW_rack32-wifi_ESP32_v3.13.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-SHA-StateController-FW_rack32-wifi_ESP32_v3.13.1_FLASH_manifest.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OXRS-IO/OXRS-IO-StateIO-ESP-FW",
+    "releases": [
+      {
+        "tag": "4.2.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.2.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "4.1.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.1.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.1.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.1.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.1.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "4.0.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.0.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "3.12.4",
+        "manifests": [
+          {
+            "name": "OXRS-SHA-StateIO-FW_rack32-eth_ESP32_v3.12.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-SHA-StateIO-FW_rack32-eth_ESP32_v3.12.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-SHA-StateIO-FW_rack32-wifi_ESP32_v3.12.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-SHA-StateIO-FW_rack32-wifi_ESP32_v3.12.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-SHA-StateIO-FW_room8266-eth_ESP8266_v3.12.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-SHA-StateIO-FW_room8266-eth_ESP8266_v3.12.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-SHA-StateIO-FW_room8266-wifi_ESP8266_v3.12.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-SHA-StateIO-FW_room8266-wifi_ESP8266_v3.12.4_FLASH_manifest.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OXRS-IO/OXRS-IO-TouchPanel-ESP32-FW",
+    "releases": [
+      {
+        "tag": "4.0.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v4.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v4.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v4.0.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "3.2.1",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v3.2.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v3.2.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v3.2.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v3.2.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v3.2.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v3.2.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v3.2.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v3.2.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v3.2.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v3.2.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v3.2.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v3.2.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v3.2.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v3.2.1_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "3.2.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v3.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v3.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v3.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v3.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v3.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v3.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v3.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v3.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v3.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v3.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v3.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v3.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v3.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v3.2.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "3.0.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v3.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v3.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v3.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v3.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v3.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v3.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v3.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v3.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v3.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v3.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v3.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v3.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v3.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v3.0.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.5.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.5.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.4.7",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.7_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.7_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.7_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.7_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.7_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.7_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.7_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.7_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.7_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.7_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.7_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.7_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.7_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.7_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.4.6",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.6_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.6_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.6_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.6_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.6_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.6_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.6_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.6_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.6_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.6_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.6_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.6_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.6_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.6_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.4.5",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.5_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.5_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.5_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.5_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.5_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.5_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.5_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.5_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.5_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.5_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.5_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.5_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.5_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.5_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.4.4",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.4_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.4.3",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.3_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.4.2",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.2_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.4.1",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.1_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.4.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v2.4.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v2.4.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.4.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.4.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.4.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.4.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.4.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.3.2",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.3.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.3.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.3.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.3.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.3.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v2.3.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.3.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.3.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.3.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.3.2_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.2.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.2.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.1.4",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.1.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.1.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.1.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.1.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.1.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.1.4_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.1.4_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.1.4_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.1.3",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.1.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v2.1.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.1.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v2.1.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.1.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v2.1.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.1.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v2.1.3_FLASH_manifest.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OXRS-IO/OXRS-IO-DigitalIO-ESP-FW",
+    "releases": [
+      {
+        "tag": "2.0.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-DigitalIO-ESP-FW_esp32-wifi_ESP32_v2.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-DigitalIO-ESP-FW_esp32-wifi_ESP32_v2.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-DigitalIO-ESP-FW_esp8266-wifi_ESP8266_v2.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-DigitalIO-ESP-FW_esp8266-wifi_ESP8266_v2.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-DigitalIO-ESP-FW_lilygo-eth_ESP32_v2.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-IO-DigitalIO-ESP-FW_lilygo-eth_ESP32_v2.0.0_FLASH_manifest.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "sumnerboy12/OXRS-BJ-StateMonitor-KNX-FW",
+    "releases": [
+      {
+        "tag": "2.7.0",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_black-eth_ESP32_v2.7.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_black-eth_ESP32_v2.7.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.7.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.7.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.7.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.7.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.6.0",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.6.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.6.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.6.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.6.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.5.1",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.5.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.5.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.5.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.5.1_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.5.0",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.5.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.5.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.5.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.4.1",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.4.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.4.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.4.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.4.1_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.4.0",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.4.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.4.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.4.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.3.3",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.3.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.3.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.3.3_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.3.3_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.3.2",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.3.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.3.2_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.3.2_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.3.2_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.3.1",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.3.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.3.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.3.1_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.3.1_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.3.0",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.3.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.3.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.3.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.3.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.2.0",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.2.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.2.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.2.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.1.0",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.1.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.1.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "2.0.0",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.0.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "1.1.0",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v1.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v1.1.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v1.1.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v1.1.0_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
+        "tag": "1.0.0",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v1.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v1.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v1.0.0_FLASH.bin",
+            "manifest": "/docs/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v1.0.0_FLASH_manifest.json"
+          }
+        ]
+      }
+    ]
+  }
+]

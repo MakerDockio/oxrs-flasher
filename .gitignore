@@ -1,9 +1,6 @@
 # Ignore environment variables file
 .env
 
-# Ignore manifests directory
-docs/manifests/
-
 # Node.js dependencies
 node_modules
 
@@ -19,3 +16,9 @@ Thumbs.db
 # Other potential files to ignore
 dist
 build
+
+# Ignore manifests directory files, except the directory itself and specific files
+docs/manifests/*
+!docs/manifests/.gitkeep
+!docs/manifests/*.json
+!docs/manifests/lastUpdated.txt

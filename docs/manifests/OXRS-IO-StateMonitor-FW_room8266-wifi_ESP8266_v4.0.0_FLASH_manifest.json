@@ -1,0 +1,16 @@
+{
+  "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.0.0_FLASH.bin",
+  "version": "4.0.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://github.com/OXRS-IO/OXRS-IO-StateMonitor-ESP-FW/releases/download/4.0.0/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.0.0_FLASH.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

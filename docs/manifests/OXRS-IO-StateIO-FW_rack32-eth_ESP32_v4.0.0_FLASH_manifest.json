@@ -1,0 +1,16 @@
+{
+  "name": "OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.0.0_FLASH.bin",
+  "version": "4.0.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://github.com/OXRS-IO/OXRS-IO-StateIO-ESP-FW/releases/download/4.0.0/OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.0.0_FLASH.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "OXRS-IO-StateController-FW_black-eth_ESP32_v4.2.0_FLASH.bin",
+  "version": "4.2.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://github.com/OXRS-IO/OXRS-IO-StateController-ESP-FW/releases/download/4.2.0/OXRS-IO-StateController-FW_black-eth_ESP32_v4.2.0_FLASH.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
