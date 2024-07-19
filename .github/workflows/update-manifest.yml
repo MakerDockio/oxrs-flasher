@@ -28,7 +28,7 @@ jobs:
 
     - name: Run Update Script
       env:
-        GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
+        GITHUB_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
       run: node generate.js
 
     - name: Commit and Push Changes
@@ -39,7 +39,7 @@ jobs:
         git commit -m 'Update manifest files for latest releases and update GitHub Pages'
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_API_TOKEN }}
 
     - name: Trigger GitHub Pages Deployment
       run: |
@@ -48,4 +48,4 @@ jobs:
         git commit -m 'Trigger GitHub Pages rebuild'
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_API_TOKEN }}
