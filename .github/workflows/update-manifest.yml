@@ -38,8 +38,7 @@ jobs:
       run: git pull origin main
 
     - name: Stage All Changes Including lastUpdated.txt
-      run: |
-        git add docs/manifests/lastUpdated.txt docs/manifests/*.json docs/index.html docs/index.js docs/main.css
+      run: git add docs/manifests/lastUpdated.txt docs/manifests/*.json docs/index.html docs/index.js docs/main.css
 
     - name: Commit and Push Changes
       run: |
