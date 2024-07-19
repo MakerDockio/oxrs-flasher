@@ -31,4 +31,4 @@ We welcome contributions to enhance the OXRS Device Flasher tool. Please submit 
 
 ## License
 
-This project is licensed under the BSD 3-Clause License. See the [LICENSE](https://github.com/MakerDockio/oxrs-flasher/main/LICENSE/) file for details.
+This project is licensed under the BSD 3-Clause License. See the [LICENSE](https://github.com/MakerDockio/oxrs-flasher/blob/main/LICENSE/) file for details.
