@@ -40,7 +40,7 @@ jobs:
       run: git pull origin main
 
     - name: Stage All Changes Including lastUpdated.txt and Firmware
-      run: git add docs/manifests/lastUpdated.txt docs/manifests/*.json docs/firmware/*.bin docs/index.html docs/index.js docs/main.css
+      run: git add -f docs/manifests/lastUpdated.txt docs/manifests/*.json docs/firmware/*.bin docs/index.html docs/index.js docs/main.css
 
     - name: Commit and Push Changes
       run: |
