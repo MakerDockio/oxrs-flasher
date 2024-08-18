@@ -1,0 +1,16 @@
+{
+  "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.8.0_FLASH.bin",
+  "version": "2.8.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "/oxrs-flasher/firmware/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.8.0_FLASH.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
