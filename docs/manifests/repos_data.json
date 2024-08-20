@@ -853,6 +853,23 @@
     "name": "sumnerboy12/OXRS-BJ-StateMonitor-KNX-FW",
     "releases": [
       {
+        "tag": "2.8.1",
+        "manifests": [
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_black-eth_ESP32_v2.8.1_FLASH.bin",
+            "manifest": "/oxrs-flasher/manifests/OXRS-BJ-StateMonitor-KNX-FW_black-eth_ESP32_v2.8.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.8.1_FLASH.bin",
+            "manifest": "/oxrs-flasher/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-eth_ESP32_v2.8.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.8.1_FLASH.bin",
+            "manifest": "/oxrs-flasher/manifests/OXRS-BJ-StateMonitor-KNX-FW_rack32-wifi_ESP32_v2.8.1_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
         "tag": "2.8.0",
         "manifests": [
           {
