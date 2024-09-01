@@ -7,7 +7,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "/oxrs-flasher/firmware/OXRS-SHA-StateMonitor-FW_room8266-wifi_ESP8266_v3.17.1_FLASH.bin",
+          "path": "/firmware/OXRS-SHA-StateMonitor-FW_room8266-wifi_ESP8266_v3.17.1_FLASH.bin",
           "offset": 0
         }
       ]

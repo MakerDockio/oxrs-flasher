@@ -104,7 +104,7 @@ const generateManifest = async () => {
                   chipFamily: chipFamily,
                   parts: [
                     {
-                      path: `/oxrs-flasher/firmware/${asset.name}`,
+                      path: `/firmware/${asset.name}`,
                       offset: 0,
                     },
                   ],
@@ -124,7 +124,7 @@ const generateManifest = async () => {
 
             releaseData.manifests.push({
               name: asset.name,
-              manifest: `/oxrs-flasher/manifests/${manifestFileName}`,
+              manifest: `/manifests/${manifestFileName}`,
             });
           }
         }

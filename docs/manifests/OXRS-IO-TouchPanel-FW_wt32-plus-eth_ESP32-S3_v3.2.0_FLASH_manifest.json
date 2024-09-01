@@ -7,7 +7,7 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "/oxrs-flasher/firmware/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v3.2.0_FLASH.bin",
+          "path": "/firmware/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v3.2.0_FLASH.bin",
           "offset": 0
         }
       ]

@@ -7,7 +7,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "/oxrs-flasher/firmware/OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.1.0_FLASH.bin",
+          "path": "/firmware/OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.1.0_FLASH.bin",
           "offset": 0
         }
       ]

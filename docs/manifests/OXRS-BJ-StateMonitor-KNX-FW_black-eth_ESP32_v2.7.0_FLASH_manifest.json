@@ -7,7 +7,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "/oxrs-flasher/firmware/OXRS-BJ-StateMonitor-KNX-FW_black-eth_ESP32_v2.7.0_FLASH.bin",
+          "path": "/firmware/OXRS-BJ-StateMonitor-KNX-FW_black-eth_ESP32_v2.7.0_FLASH.bin",
           "offset": 0
         }
       ]

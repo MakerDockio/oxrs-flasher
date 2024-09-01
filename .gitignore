@@ -18,11 +18,11 @@ dist
 build
 
 # Ignore manifests directory files, except the directory itself and specific files
-docs/manifests/*
-!docs/manifests/.gitkeep
-!docs/manifests/*.json
-!docs/manifests/lastUpdated.txt
+#docs/manifests/*
+#!docs/manifests/.gitkeep
+#!docs/manifests/*.json
+#!docs/manifests/lastUpdated.txt
 
 
-docs/firmware/*
-docs/firmware/*.json
+#docs/firmware/*
+#docs/firmware/*.json
