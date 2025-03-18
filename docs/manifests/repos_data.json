@@ -828,6 +828,28 @@
     ]
   },
   {
+    "name": "OXRS-IO/OXRS-IO-DigitalIO-ESP-FW",
+    "releases": [
+      {
+        "tag": "2.0.0",
+        "manifests": [
+          {
+            "name": "OXRS-IO-DigitalIO-ESP-FW_esp32-wifi_ESP32_v2.0.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-DigitalIO-ESP-FW_esp32-wifi_ESP32_v2.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-DigitalIO-ESP-FW_esp8266-wifi_ESP8266_v2.0.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-DigitalIO-ESP-FW_esp8266-wifi_ESP8266_v2.0.0_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-DigitalIO-ESP-FW_lilygo-eth_ESP32_v2.0.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-DigitalIO-ESP-FW_lilygo-eth_ESP32_v2.0.0_FLASH_manifest.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "sumnerboy12/OXRS-BJ-StateMonitor-KNX-FW",
     "releases": [
       {
