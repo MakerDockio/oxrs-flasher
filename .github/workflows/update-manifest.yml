@@ -39,23 +39,22 @@ jobs:
     - name: Pull Latest Changes
       run: git pull origin main
 
-    - name: Stage All Changes Including lastUpdated.txt and Firmware
-      run: git add -f docs/manifests/lastUpdated.txt docs/manifests/*.json docs/firmware/*.bin docs/index.html docs/index.js docs/main.css
+    - name: Prepare Files for Commit
+      run: |
+        mkdir -p docs
+        touch docs/.nojekyll
+        git add docs/firmware/*.bin docs/manifests/*.json docs/.nojekyll
 
-    - name: Commit and Push Changes
+    - name: Commit and Push if Changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-        git commit -m 'Update manifest files for latest releases and update GitHub Pages' || echo "No changes to commit"
-        git push || echo "Nothing to push"
-      env:
-        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
-    - name: Trigger GitHub Pages Deployment
-      run: |
-        touch docs/.nojekyll
-        git add docs/.nojekyll
-        git commit -m 'Trigger GitHub Pages rebuild' || echo "No changes to commit"
-        git push || echo "Nothing to push"
+        if [[ -n "$(git status --porcelain)" ]]; then
+          git commit -m 'Update manifests and firmware, trigger GitHub Pages deploy'
+          git push
+        else
+          echo "No changes to commit or push"
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
