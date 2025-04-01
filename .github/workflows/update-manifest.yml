@@ -43,6 +43,12 @@ jobs:
       run: |
         mkdir -p docs
         touch docs/.nojekyll
+
+        # Restore files we no longer track
+        git restore docs/manifests/lastUpdated.txt || true
+        git restore package.json package-lock.json || true
+
+        # Stage only the relevant files
         git add docs/firmware/*.bin docs/manifests/*.json docs/.nojekyll
 
     - name: Commit and Push if Changes
