@@ -309,6 +309,39 @@
     "name": "OXRS-IO/OXRS-IO-TouchPanel-ESP32-FW",
     "releases": [
       {
+        "tag": "3.3.1",
+        "manifests": [
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v3.3.1_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-eth_ESP32-S3_v3.3.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v3.3.1_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-TouchPanel-FW_wt32-86s-wifi_ESP32-S3_v3.3.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v3.3.1_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v3.3.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v3.3.1_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-TouchPanel-FW_wt32-eth_ESP32_v3.3.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v3.3.1_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-eth_ESP32-S3_v3.3.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v3.3.1_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-TouchPanel-FW_wt32-plus-wifi_ESP32-S3_v3.3.1_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v3.3.1_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-TouchPanel-FW_wt32-wifi_ESP32_v3.3.1_FLASH_manifest.json"
+          }
+        ]
+      },
+      {
         "tag": "4.0.0",
         "manifests": [
           {

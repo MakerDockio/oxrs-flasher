@@ -1,0 +1,16 @@
+{
+  "name": "OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v3.3.1_FLASH.bin",
+  "version": "3.3.1",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "/firmware/OXRS-IO-TouchPanel-FW_wt32-86v-wifi_ESP32-S3_v3.3.1_FLASH.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
