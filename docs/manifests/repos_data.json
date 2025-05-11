@@ -883,6 +883,24 @@
     ]
   },
   {
+    "name": "Bedrock-Media-Designs/OXRS-BMD-PDU-ESP32-FW",
+    "releases": [
+      {
+        "tag": "2.0.3",
+        "manifests": [
+          {
+            "name": "OXRS-BMD-PDU-ESP32-FW_black-eth_ESP32_v2.0.3_FLASH.bin",
+            "manifest": "/manifests/OXRS-BMD-PDU-ESP32-FW_black-eth_ESP32_v2.0.3_FLASH_manifest.json"
+          },
+          {
+            "name": "OXRS-BMD-PDU-ESP32-FW_rack32-eth_ESP32_v2.0.3_FLASH.bin",
+            "manifest": "/manifests/OXRS-BMD-PDU-ESP32-FW_rack32-eth_ESP32_v2.0.3_FLASH_manifest.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "sumnerboy12/OXRS-BJ-StateMonitor-KNX-FW",
     "releases": [
       {

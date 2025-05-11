@@ -1,0 +1,16 @@
+{
+  "name": "OXRS-BMD-PDU-ESP32-FW_rack32-eth_ESP32_v2.0.3_FLASH.bin",
+  "version": "2.0.3",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "/firmware/OXRS-BMD-PDU-ESP32-FW_rack32-eth_ESP32_v2.0.3_FLASH.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
