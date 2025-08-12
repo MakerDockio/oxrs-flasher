@@ -1,92 +1,21 @@
 [
   {
-    "name": "OXRS-IO/OXRS-IO-StateMonitor-ESP-FW",
+    "name": "OXRS-IO/OXRS-IO-StateController-ESP-FW",
     "releases": [
-      {
-        "tag": "4.5.0",
-        "manifests": [
-          {
-            "name": "OXRS-IO-StateMonitor-FW_black-eth_ESP32_v4.5.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_black-eth_ESP32_v4.5.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.5.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.5.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.5.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.5.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.5.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.5.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.5.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.5.0_FLASH_manifest.json"
-          }
-        ]
-      },
-      {
-        "tag": "4.4.0",
-        "manifests": [
-          {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.4.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.4.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.4.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.4.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.4.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.4.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.4.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.4.0_FLASH_manifest.json"
-          }
-        ]
-      },
-      {
-        "tag": "4.3.0",
-        "manifests": [
-          {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.3.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.3.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.3.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.3.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.3.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.3.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.3.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.3.0_FLASH_manifest.json"
-          }
-        ]
-      },
       {
         "tag": "4.2.0",
         "manifests": [
           {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.2.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.2.0_FLASH_manifest.json"
+            "name": "OXRS-IO-StateController-FW_black-eth_ESP32_v4.2.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-StateController-FW_black-eth_ESP32_v4.2.0_FLASH_manifest.json"
           },
           {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.2.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.2.0_FLASH_manifest.json"
+            "name": "OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.2.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.2.0_FLASH_manifest.json"
           },
           {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.2.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.2.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.2.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.2.0_FLASH_manifest.json"
+            "name": "OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.2.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.2.0_FLASH_manifest.json"
           }
         ]
       },
@@ -94,20 +23,12 @@
         "tag": "4.1.0",
         "manifests": [
           {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.1.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.1.0_FLASH_manifest.json"
+            "name": "OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.1.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.1.0_FLASH_manifest.json"
           },
           {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.1.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.1.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.1.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.1.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.1.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.1.0_FLASH_manifest.json"
+            "name": "OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.1.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.1.0_FLASH_manifest.json"
           }
         ]
       },
@@ -115,148 +36,47 @@
         "tag": "4.0.0",
         "manifests": [
           {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.0.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-eth_ESP32_v4.0.0_FLASH_manifest.json"
+            "name": "OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.0.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-StateController-FW_rack32-eth_ESP32_v4.0.0_FLASH_manifest.json"
           },
           {
-            "name": "OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.0.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_rack32-wifi_ESP32_v4.0.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.0.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-eth_ESP8266_v4.0.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.0.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateMonitor-FW_room8266-wifi_ESP8266_v4.0.0_FLASH_manifest.json"
+            "name": "OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.0.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-StateController-FW_rack32-wifi_ESP32_v4.0.0_FLASH_manifest.json"
           }
         ]
       },
       {
-        "tag": "3.17.1",
+        "tag": "3.13.1",
         "manifests": [
           {
-            "name": "OXRS-SHA-StateMonitor-FW_rack32-eth_ESP32_v3.17.1_FLASH.bin",
-            "manifest": "/manifests/OXRS-SHA-StateMonitor-FW_rack32-eth_ESP32_v3.17.1_FLASH_manifest.json"
+            "name": "OXRS-SHA-StateController-FW_rack32-eth_ESP32_v3.13.1_FLASH.bin",
+            "manifest": "/manifests/OXRS-SHA-StateController-FW_rack32-eth_ESP32_v3.13.1_FLASH_manifest.json"
           },
           {
-            "name": "OXRS-SHA-StateMonitor-FW_rack32-wifi_ESP32_v3.17.1_FLASH.bin",
-            "manifest": "/manifests/OXRS-SHA-StateMonitor-FW_rack32-wifi_ESP32_v3.17.1_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-SHA-StateMonitor-FW_room8266-eth_ESP8266_v3.17.1_FLASH.bin",
-            "manifest": "/manifests/OXRS-SHA-StateMonitor-FW_room8266-eth_ESP8266_v3.17.1_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-SHA-StateMonitor-FW_room8266-wifi_ESP8266_v3.17.1_FLASH.bin",
-            "manifest": "/manifests/OXRS-SHA-StateMonitor-FW_room8266-wifi_ESP8266_v3.17.1_FLASH_manifest.json"
+            "name": "OXRS-SHA-StateController-FW_rack32-wifi_ESP32_v3.13.1_FLASH.bin",
+            "manifest": "/manifests/OXRS-SHA-StateController-FW_rack32-wifi_ESP32_v3.13.1_FLASH_manifest.json"
           }
         ]
       }
     ]
   },
   {
-    "name": "OXRS-IO/OXRS-IO-StateIO-ESP-FW",
+    "name": "OXRS-IO/OXRS-IO-DigitalIO-ESP-FW",
     "releases": [
       {
-        "tag": "4.2.0",
+        "tag": "2.0.0",
         "manifests": [
           {
-            "name": "OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.2.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.2.0_FLASH_manifest.json"
+            "name": "OXRS-IO-DigitalIO-ESP-FW_esp32-wifi_ESP32_v2.0.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-DigitalIO-ESP-FW_esp32-wifi_ESP32_v2.0.0_FLASH_manifest.json"
           },
           {
-            "name": "OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.2.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.2.0_FLASH_manifest.json"
+            "name": "OXRS-IO-DigitalIO-ESP-FW_esp8266-wifi_ESP8266_v2.0.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-DigitalIO-ESP-FW_esp8266-wifi_ESP8266_v2.0.0_FLASH_manifest.json"
           },
           {
-            "name": "OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.2.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.2.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.2.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.2.0_FLASH_manifest.json"
-          }
-        ]
-      },
-      {
-        "tag": "4.1.0",
-        "manifests": [
-          {
-            "name": "OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.1.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.1.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.1.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.1.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.1.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.1.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.1.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.1.0_FLASH_manifest.json"
-          }
-        ]
-      },
-      {
-        "tag": "4.0.0",
-        "manifests": [
-          {
-            "name": "OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.0.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_rack32-eth_ESP32_v4.0.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.0.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_rack32-wifi_ESP32_v4.0.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.0.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_room8266-eth_ESP8266_v4.0.0_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.0.0_FLASH.bin",
-            "manifest": "/manifests/OXRS-IO-StateIO-FW_room8266-wifi_ESP8266_v4.0.0_FLASH_manifest.json"
-          }
-        ]
-      },
-      {
-        "tag": "3.12.4",
-        "manifests": [
-          {
-            "name": "OXRS-SHA-StateIO-FW_rack32-eth_ESP32_v3.12.4_FLASH.bin",
-            "manifest": "/manifests/OXRS-SHA-StateIO-FW_rack32-eth_ESP32_v3.12.4_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-SHA-StateIO-FW_rack32-wifi_ESP32_v3.12.4_FLASH.bin",
-            "manifest": "/manifests/OXRS-SHA-StateIO-FW_rack32-wifi_ESP32_v3.12.4_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-SHA-StateIO-FW_room8266-eth_ESP8266_v3.12.4_FLASH.bin",
-            "manifest": "/manifests/OXRS-SHA-StateIO-FW_room8266-eth_ESP8266_v3.12.4_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-SHA-StateIO-FW_room8266-wifi_ESP8266_v3.12.4_FLASH.bin",
-            "manifest": "/manifests/OXRS-SHA-StateIO-FW_room8266-wifi_ESP8266_v3.12.4_FLASH_manifest.json"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Bedrock-Media-Designs/OXRS-BMD-PDU-ESP32-FW",
-    "releases": [
-      {
-        "tag": "2.0.3",
-        "manifests": [
-          {
-            "name": "OXRS-BMD-PDU-ESP32-FW_black-eth_ESP32_v2.0.3_FLASH.bin",
-            "manifest": "/manifests/OXRS-BMD-PDU-ESP32-FW_black-eth_ESP32_v2.0.3_FLASH_manifest.json"
-          },
-          {
-            "name": "OXRS-BMD-PDU-ESP32-FW_rack32-eth_ESP32_v2.0.3_FLASH.bin",
-            "manifest": "/manifests/OXRS-BMD-PDU-ESP32-FW_rack32-eth_ESP32_v2.0.3_FLASH_manifest.json"
+            "name": "OXRS-IO-DigitalIO-ESP-FW_lilygo-eth_ESP32_v2.0.0_FLASH.bin",
+            "manifest": "/manifests/OXRS-IO-DigitalIO-ESP-FW_lilygo-eth_ESP32_v2.0.0_FLASH_manifest.json"
           }
         ]
       }
